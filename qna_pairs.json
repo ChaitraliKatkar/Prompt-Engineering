@@ -1,0 +1,902 @@
+[
+    {
+        "question": "How much income did I receive from From dad on 2021-01-01 21:45:00?",
+        "answer": "You received an income of $8000.0 from From dad on 2021-01-01 21:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-01-01 21:46:00?",
+        "answer": "You spent $85.0 on Food (Snacks) on 2021-01-01 21:46:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-01-03 18:21:00?",
+        "answer": "You received an income of $500.0 from From dad on 2021-01-03 18:21:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-01-03 18:22:00?",
+        "answer": "You spent $6667.0 on Household (Stuffs) on 2021-01-03 18:22:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Metro) on 2021-01-03 18:56:00?",
+        "answer": "You spent $30.0 on Transportation (Metro) on 2021-01-03 18:56:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-01-03 19:50:00?",
+        "answer": "You spent $78.0 on Food (Dinner) on 2021-01-03 19:50:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-01-12 14:00:00?",
+        "answer": "You spent $1460.0 on Food (Lunch with company) on 2021-01-12 14:00:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido to pg) on 2021-01-13 17:47:00?",
+        "answer": "You spent $43.0 on Transportation (Rapido to pg) on 2021-01-13 17:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-01-13 20:46:00?",
+        "answer": "You spent $66.0 on Food (Dinner) on 2021-01-13 20:46:00."
+    },
+    {
+        "question": "How much income did I receive from Gundan + prasanna on 2021-01-14 16:56:00?",
+        "answer": "You received an income of $340.0 from Gundan + prasanna on 2021-01-14 16:56:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-01-15 21:16:00?",
+        "answer": "You received an income of $1500.0 from From dad on 2021-01-15 21:16:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-01-15 21:16:00?",
+        "answer": "You spent $70.0 on Food (Snacks) on 2021-01-15 21:16:00."
+    },
+    {
+        "question": "How much did I spend on Food (Eve snack) on 2021-01-17 18:31:00?",
+        "answer": "You spent $1100.0 on Food (Eve snack) on 2021-01-17 18:31:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-01-18 13:51:00?",
+        "answer": "You spent $148.0 on Food (Lunch with company) on 2021-01-18 13:51:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snack with preethi) on 2021-01-18 17:10:00?",
+        "answer": "You spent $59.0 on Food (Snack with preethi) on 2021-01-18 17:10:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-01-18 20:54:00?",
+        "answer": "You spent $301.15 on Food (Dinner) on 2021-01-18 20:54:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch + chocolate for preethi) on 2021-01-19 14:27:00?",
+        "answer": "You spent $171.0 on Food (Lunch + chocolate for preethi) on 2021-01-19 14:27:00."
+    },
+    {
+        "question": "How much income did I receive from From vicky on 2021-01-21 11:47:00?",
+        "answer": "You received an income of $200.0 from From vicky on 2021-01-21 11:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-01-21 11:47:00?",
+        "answer": "You spent $37.0 on Food (Snacks) on 2021-01-21 11:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-01-21 14:22:00?",
+        "answer": "You spent $188.0 on Food (Lunch with company) on 2021-01-21 14:22:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-01-23 21:27:00?",
+        "answer": "You received an income of $2000.0 from From dad on 2021-01-23 21:27:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks with preethi and azar) on 2021-01-23 21:27:00?",
+        "answer": "You spent $176.0 on Food (Snacks with preethi and azar) on 2021-01-23 21:27:00."
+    },
+    {
+        "question": "How much did I spend on apparel (Badminton) on 2021-01-23 21:27:00?",
+        "answer": "You spent $200.0 on apparel (Badminton) on 2021-01-23 21:27:00."
+    },
+    {
+        "question": "How much income did I receive from From vicky on 2021-01-23 21:29:00?",
+        "answer": "You received an income of $310.0 from From vicky on 2021-01-23 21:29:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lemon tea) on 2021-01-25 10:23:00?",
+        "answer": "You spent $18.0 on Food (Lemon tea) on 2021-01-25 10:23:00."
+    },
+    {
+        "question": "How much did I spend on Food (Paani poori) on 2021-01-26 16:52:00?",
+        "answer": "You spent $25.0 on Food (Paani poori) on 2021-01-26 16:52:00."
+    },
+    {
+        "question": "How much income did I receive from Vishnu 100 gowdham 25 on 2021-01-26 17:45:00?",
+        "answer": "You received an income of $125.0 from Vishnu 100 gowdham 25 on 2021-01-26 17:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-01-26 17:45:00?",
+        "answer": "You spent $115.0 on Food (Snacks) on 2021-01-26 17:45:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-01-27 13:38:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-01-27 13:38:00."
+    },
+    {
+        "question": "How much did I spend on Food (Zinger box meal) on 2021-01-27 13:39:00?",
+        "answer": "You spent $279.0 on Food (Zinger box meal) on 2021-01-27 13:39:00."
+    },
+    {
+        "question": "How much did I spend on Other (To vishnu) on 2021-01-27 13:41:00?",
+        "answer": "You spent $1100.0 on Other (To vishnu) on 2021-01-27 13:41:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-01-28 14:23:00?",
+        "answer": "You spent $138.0 on Food (Lunch with company) on 2021-01-28 14:23:00."
+    },
+    {
+        "question": "How much did I spend on Food (Banana) on 2021-01-28 21:58:00?",
+        "answer": "You spent $10.0 on Food (Banana) on 2021-01-28 21:58:00."
+    },
+    {
+        "question": "How much did I spend on Other (Sent to barath) on 2021-01-29 14:44:00?",
+        "answer": "You spent $100.0 on Other (Sent to barath) on 2021-01-29 14:44:00."
+    },
+    {
+        "question": "How much did I spend on Food (Brunch) on 2021-01-30 12:28:00?",
+        "answer": "You spent $105.0 on Food (Brunch) on 2021-01-30 12:28:00."
+    },
+    {
+        "question": "How much did I spend on Food (Cycle gap ) on 2021-01-30 19:01:00?",
+        "answer": "You spent $120.0 on Food (Cycle gap ) on 2021-01-30 19:01:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-01-30 19:17:00?",
+        "answer": "You spent $155.0 on Food (Dinner) on 2021-01-30 19:17:00."
+    },
+    {
+        "question": "How much did I spend on Other (To vicky) on 2021-01-31 08:27:00?",
+        "answer": "You spent $200.0 on Other (To vicky) on 2021-01-31 08:27:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Train to vnr) on 2021-02-01 14:16:00?",
+        "answer": "You spent $725.0 on Transportation (Train to vnr) on 2021-02-01 14:16:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with barath) on 2021-02-01 20:32:00?",
+        "answer": "You spent $200.0 on Food (Dinner with barath) on 2021-02-01 20:32:00."
+    },
+    {
+        "question": "How much did I spend on Other (Tablet to gowdham) on 2021-02-01 20:33:00?",
+        "answer": "You spent $8.0 on Other (Tablet to gowdham) on 2021-02-01 20:33:00."
+    },
+    {
+        "question": "How much did I spend on Food (Parotta) on 2021-02-02 20:15:00?",
+        "answer": "You spent $120.0 on Food (Parotta) on 2021-02-02 20:15:00."
+    },
+    {
+        "question": "How much did I spend on Food (Brownie) on 2021-02-03 10:11:00?",
+        "answer": "You spent $50.0 on Food (Brownie) on 2021-02-03 10:11:00."
+    },
+    {
+        "question": "How much did I spend on apparel (Games ) on 2021-02-13 21:54:00?",
+        "answer": "You spent $100.0 on apparel (Games ) on 2021-02-13 21:54:00."
+    },
+    {
+        "question": "How much did I spend on Food (Kfc ) on 2021-02-16 16:57:00?",
+        "answer": "You spent $475.0 on Food (Kfc ) on 2021-02-16 16:57:00."
+    },
+    {
+        "question": "How much did I spend on Food (Side dishes) on 2021-02-16 16:57:00?",
+        "answer": "You spent $165.0 on Food (Side dishes) on 2021-02-16 16:57:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-02-17 13:11:00?",
+        "answer": "You spent $80.0 on Food (Lunch) on 2021-02-17 13:11:00."
+    },
+    {
+        "question": "How much did I spend on Food (Kfc dinner) on 2021-02-18 23:01:00?",
+        "answer": "You spent $348.0 on Food (Kfc dinner) on 2021-02-18 23:01:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (To egmore) on 2021-02-19 06:18:00?",
+        "answer": "You spent $2709.0 on Transportation (To egmore) on 2021-02-19 06:18:00."
+    },
+    {
+        "question": "How much did I spend on Other (To auto anna) on 2021-02-19 06:27:00?",
+        "answer": "You spent $50.0 on Other (To auto anna) on 2021-02-19 06:27:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Metro) on 2021-02-19 08:26:00?",
+        "answer": "You spent $60.0 on Transportation (Metro) on 2021-02-19 08:26:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Bus ticket) on 2021-02-19 21:35:00?",
+        "answer": "You spent $1575.0 on Transportation (Bus ticket) on 2021-02-19 21:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-02-19 21:57:00?",
+        "answer": "You spent $250.0 on Food (Snacks) on 2021-02-19 21:57:00."
+    },
+    {
+        "question": "How much did I spend on Food (Random stuff for drinks) on 2021-02-19 23:03:00?",
+        "answer": "You spent $111.0 on Food (Random stuff for drinks) on 2021-02-19 23:03:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-02-20 15:24:00?",
+        "answer": "You spent $200.0 on Food (Lunch) on 2021-02-20 15:24:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Train cbe to chn) on 2021-02-21 15:38:00?",
+        "answer": "You spent $201.8 on Transportation (Train cbe to chn) on 2021-02-21 15:38:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-02-21 15:40:00?",
+        "answer": "You spent $3336.0 on Household (Stuffs) on 2021-02-21 15:40:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (It better be worth it) on 2021-02-21 22:15:00?",
+        "answer": "You spent $1300.0 on Transportation (It better be worth it) on 2021-02-21 22:15:00."
+    },
+    {
+        "question": "How much did I spend on Food (Eggs) on 2021-02-23 16:06:00?",
+        "answer": "You spent $83.0 on Food (Eggs) on 2021-02-23 16:06:00."
+    },
+    {
+        "question": "How much did I spend on Apparel (Hoodie for gobi) on 2021-02-23 17:35:00?",
+        "answer": "You spent $3999.0 on Apparel (Hoodie for gobi) on 2021-02-23 17:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Creamstone) on 2021-02-24 22:21:00?",
+        "answer": "You spent $289.0 on Food (Creamstone) on 2021-02-24 22:21:00."
+    },
+    {
+        "question": "How much did I spend on Food (Tea lights) on 2021-02-26 01:39:00?",
+        "answer": "You spent $84.0 on Food (Tea lights) on 2021-02-26 01:39:00."
+    },
+    {
+        "question": "How much did I spend on Other (To karthi) on 2021-02-26 17:37:00?",
+        "answer": "You spent $100.0 on Other (To karthi) on 2021-02-26 17:37:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-02-27 15:29:00?",
+        "answer": "You spent $243.0 on Food (Lunch) on 2021-02-27 15:29:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-02-28 11:45:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-02-28 11:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Pizza) on 2021-02-28 11:56:00?",
+        "answer": "You spent $339.15 on Food (Pizza) on 2021-02-28 11:56:00."
+    },
+    {
+        "question": "How much income did I receive from From abi on 2021-03-01 14:30:00?",
+        "answer": "You received an income of $300.0 from From abi on 2021-03-01 14:30:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch unlimited nv) on 2021-03-01 14:31:00?",
+        "answer": "You spent $300.0 on Food (Lunch unlimited nv) on 2021-03-01 14:31:00."
+    },
+    {
+        "question": "How much income did I receive from From shakur on 2021-03-01 21:11:00?",
+        "answer": "You received an income of $1140.0 from From shakur on 2021-03-01 21:11:00."
+    },
+    {
+        "question": "How much income did I receive from From barath on 2021-03-01 21:54:00?",
+        "answer": "You received an income of $201.0 from From barath on 2021-03-01 21:54:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dairy milk) on 2021-03-01 22:15:00?",
+        "answer": "You spent $10.0 on Food (Dairy milk) on 2021-03-01 22:15:00."
+    },
+    {
+        "question": "How much did I spend on Other (To gowdham) on 2021-03-02 08:59:00?",
+        "answer": "You spent $150.0 on Other (To gowdham) on 2021-03-02 08:59:00."
+    },
+    {
+        "question": "How much did I spend on Food (Good soup) on 2021-03-02 14:53:00?",
+        "answer": "You spent $50.0 on Food (Good soup) on 2021-03-02 14:53:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Bus to Bangalore) on 2021-03-15 21:17:00?",
+        "answer": "You spent $1365.0 on Transportation (Bus to Bangalore) on 2021-03-15 21:17:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-03-21 21:12:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-03-21 21:12:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-03-22 06:33:00?",
+        "answer": "You spent $5120.0 on Household (Stuffs) on 2021-03-22 06:33:00."
+    },
+    {
+        "question": "How much did I spend on Apparel (Earphone) on 2021-03-23 12:38:00?",
+        "answer": "You spent $3997.0 on Apparel (Earphone) on 2021-03-23 12:38:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (To ksr station) on 2021-03-31 08:26:00?",
+        "answer": "You spent $153.0 on Transportation (To ksr station) on 2021-03-31 08:26:00."
+    },
+    {
+        "question": "How much did I spend on Food (Sent to preethi) on 2021-04-01 07:58:00?",
+        "answer": "You spent $107.0 on Food (Sent to preethi) on 2021-04-01 07:58:00."
+    },
+    {
+        "question": "How much did I spend on Other (To vicky) on 2021-04-01 08:01:00?",
+        "answer": "You spent $80.0 on Other (To vicky) on 2021-04-01 08:01:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-04-01 13:53:00?",
+        "answer": "You spent $106.0 on Food (Lunch with company) on 2021-04-01 13:53:00."
+    },
+    {
+        "question": "How much did I spend on Education (Arrear and reval fee) on 2021-04-01 22:11:00?",
+        "answer": "You spent $14000.0 on Education (Arrear and reval fee) on 2021-04-01 22:11:00."
+    },
+    {
+        "question": "How much did I spend on Other (To lended people) on 2021-04-03 10:11:00?",
+        "answer": "You spent $300.0 on Other (To lended people) on 2021-04-03 10:11:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Took from sbi) on 2021-04-19 20:45:00?",
+        "answer": "You spent $200.0 on Transportation (Took from sbi) on 2021-04-19 20:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Ramen with gobi) on 2021-04-19 20:45:00?",
+        "answer": "You spent $380.0 on Food (Ramen with gobi) on 2021-04-19 20:45:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-04-21 22:10:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-04-21 22:10:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-04-22 06:33:00?",
+        "answer": "You spent $5180.0 on Household (Stuffs) on 2021-04-22 06:33:00."
+    },
+    {
+        "question": "How much did I spend on Food (Shawarma) on 2021-04-22 20:28:00?",
+        "answer": "You spent $80.0 on Food (Shawarma) on 2021-04-22 20:28:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Cab) on 2021-04-25 20:46:00?",
+        "answer": "You spent $306.0 on Transportation (Cab) on 2021-04-25 20:46:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-05-01 14:30:00?",
+        "answer": "You spent $388.0 on Food (Lunch with company) on 2021-05-01 14:30:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Refund for bus ticket) on 2021-05-01 14:35:00?",
+        "answer": "You spent $600.0 on Transportation (Refund for bus ticket) on 2021-05-01 14:35:00."
+    },
+    {
+        "question": "How much did I spend on Other (To abijith and to vicky lend money returned) on 2021-05-01 14:37:00?",
+        "answer": "You spent $500.0 on Other (To abijith and to vicky lend money returned) on 2021-05-01 14:37:00."
+    },
+    {
+        "question": "How much did I spend on Other (To gobi 1st 1/4th) on 2021-05-01 14:39:00?",
+        "answer": "You spent $500.0 on Other (To gobi 1st 1/4th) on 2021-05-01 14:39:00."
+    },
+    {
+        "question": "How much did I spend on Other (Lended money returned to kumara) on 2021-05-01 14:42:00?",
+        "answer": "You spent $30.0 on Other (Lended money returned to kumara) on 2021-05-01 14:42:00."
+    },
+    {
+        "question": "How much did I spend on Food (Jan 2nd with shakur and barath) on 2021-05-01 14:42:00?",
+        "answer": "You spent $354.0 on Food (Jan 2nd with shakur and barath) on 2021-05-01 14:42:00."
+    },
+    {
+        "question": "How much did I spend on Other (Lended money returned to vishnu) on 2021-05-01 14:46:00?",
+        "answer": "You spent $40.0 on Other (Lended money returned to vishnu) on 2021-05-01 14:46:00."
+    },
+    {
+        "question": "How much did I spend on apparel (Spiderman ) on 2021-05-18 19:51:00?",
+        "answer": "You spent $1363.72 on apparel (Spiderman ) on 2021-05-18 19:51:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-05-21 20:23:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-05-21 20:23:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-05-22 06:33:00?",
+        "answer": "You spent $5120.0 on Household (Stuffs) on 2021-05-22 06:33:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Vnr to apk) on 2021-05-31 08:44:00?",
+        "answer": "You spent $50.0 on Transportation (Vnr to apk) on 2021-05-31 08:44:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido to pg) on 2021-06-01 11:48:00?",
+        "answer": "You spent $429.0 on Transportation (Rapido to pg) on 2021-06-01 11:48:00."
+    },
+    {
+        "question": "How much did I spend on Food (Bingo) on 2021-06-01 14:22:00?",
+        "answer": "You spent $10.0 on Food (Bingo) on 2021-06-01 14:22:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with roommate) on 2021-06-01 20:13:00?",
+        "answer": "You spent $877.81 on Food (Dinner with roommate) on 2021-06-01 20:13:00."
+    },
+    {
+        "question": "How much did I spend on Food (Ketch up) on 2021-06-01 20:58:00?",
+        "answer": "You spent $200.0 on Food (Ketch up) on 2021-06-01 20:58:00."
+    },
+    {
+        "question": "How much income did I receive from From barath and shakur on 2021-06-01 21:30:00?",
+        "answer": "You received an income of $440.0 from From barath and shakur on 2021-06-01 21:30:00."
+    },
+    {
+        "question": "How much did I spend on Other (To gobi) on 2021-06-02 16:40:00?",
+        "answer": "You spent $4500.0 on Other (To gobi) on 2021-06-02 16:40:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (To chennai) on 2021-06-02 17:52:00?",
+        "answer": "You spent $1000.0 on Transportation (To chennai) on 2021-06-02 17:52:00."
+    },
+    {
+        "question": "How much did I spend on Food (To kumara) on 2021-06-02 17:53:00?",
+        "answer": "You spent $150.0 on Food (To kumara) on 2021-06-02 17:53:00."
+    },
+    {
+        "question": "How much did I spend on Food (Cakepark) on 2021-06-02 18:32:00?",
+        "answer": "You spent $125.0 on Food (Cakepark) on 2021-06-02 18:32:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with aravind and buddies) on 2021-06-02 21:20:00?",
+        "answer": "You spent $491.0 on Food (Dinner with aravind and buddies) on 2021-06-02 21:20:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-06-14 15:18:00?",
+        "answer": "You spent $749.0 on Food (Snacks) on 2021-06-14 15:18:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-06-22 06:33:00?",
+        "answer": "You spent $4120.0 on Household (Stuffs) on 2021-06-22 06:33:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-06-22 16:41:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-06-22 16:41:00."
+    },
+    {
+        "question": "How much did I spend on Food (Coffee + biscuit) on 2021-07-01 13:51:00?",
+        "answer": "You spent $1599.0 on Food (Coffee + biscuit) on 2021-07-01 13:51:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Auto to Gobi's place) on 2021-07-02 07:08:00?",
+        "answer": "You spent $214.0 on Transportation (Auto to Gobi's place) on 2021-07-02 07:08:00."
+    },
+    {
+        "question": "How much did I spend on Other (To kumara) on 2021-07-18 12:59:00?",
+        "answer": "You spent $200.0 on Other (To kumara) on 2021-07-18 12:59:00."
+    },
+    {
+        "question": "How much did I spend on Household (Stuffs) on 2021-07-22 06:33:00?",
+        "answer": "You spent $4620.0 on Household (Stuffs) on 2021-07-22 06:33:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-07-23 21:29:00?",
+        "answer": "You spent $302.0 on Food (Lunch) on 2021-07-23 21:29:00."
+    },
+    {
+        "question": "How much did I spend on apparel (Beer) on 2021-07-24 21:49:00?",
+        "answer": "You spent $1500.0 on apparel (Beer) on 2021-07-24 21:49:00."
+    },
+    {
+        "question": "How much did I spend on Food (Kfc date with myself) on 2021-07-25 13:35:00?",
+        "answer": "You spent $259.0 on Food (Kfc date with myself) on 2021-07-25 13:35:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-07-26 17:37:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-07-26 17:37:00."
+    },
+    {
+        "question": "How much income did I receive from From vicky on 2021-07-27 13:38:00?",
+        "answer": "You received an income of $300.0 from From vicky on 2021-07-27 13:38:00."
+    },
+    {
+        "question": "How much did I spend on Household (Rent) on 2021-08-01 13:38:00?",
+        "answer": "You spent $4580.0 on Household (Rent) on 2021-08-01 13:38:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with gowdham) on 2021-08-01 13:45:00?",
+        "answer": "You spent $535.3 on Food (Lunch with gowdham) on 2021-08-01 13:45:00."
+    },
+    {
+        "question": "How much income did I receive from From gowdham on 2021-08-01 13:46:00?",
+        "answer": "You received an income of $260.0 from From gowdham on 2021-08-01 13:46:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-08-02 10:37:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-08-02 10:37:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-08-02 20:14:00?",
+        "answer": "You received an income of $500.0 from From dad on 2021-08-02 20:14:00."
+    },
+    {
+        "question": "How much did I spend on Other (Gave to gowdham) on 2021-08-17 08:35:00?",
+        "answer": "You spent $50.0 on Other (Gave to gowdham) on 2021-08-17 08:35:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Travel to koyambedu) on 2021-08-21 16:06:00?",
+        "answer": "You spent $138.0 on Transportation (Travel to koyambedu) on 2021-08-21 16:06:00."
+    },
+    {
+        "question": "How much did I spend on Food (Tamen) on 2021-08-24 19:15:00?",
+        "answer": "You spent $324.7 on Food (Tamen) on 2021-08-24 19:15:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-08-26 14:07:00?",
+        "answer": "You spent $40.0 on Food (Snacks) on 2021-08-26 14:07:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido to pg) on 2021-08-27 21:25:00?",
+        "answer": "You spent $43.0 on Transportation (Rapido to pg) on 2021-08-27 21:25:00."
+    },
+    {
+        "question": "How much income did I receive from From Deepak on 2021-08-30 11:44:00?",
+        "answer": "You received an income of $2250.0 from From Deepak on 2021-08-30 11:44:00."
+    },
+    {
+        "question": "How much did I spend on Household (Bean bag) on 2021-09-02 09:18:00?",
+        "answer": "You spent $2099.0 on Household (Bean bag) on 2021-09-02 09:18:00."
+    },
+    {
+        "question": "How much income did I receive from From vicky on 2021-09-03 18:22:00?",
+        "answer": "You received an income of $100.0 from From vicky on 2021-09-03 18:22:00."
+    },
+    {
+        "question": "How much income did I receive from Kumara on 2021-09-14 16:58:00?",
+        "answer": "You received an income of $170.0 from Kumara on 2021-09-14 16:58:00."
+    },
+    {
+        "question": "How much did I spend on Food (Sent to vicky) on 2021-09-23 21:29:00?",
+        "answer": "You spent $300.0 on Food (Sent to vicky) on 2021-09-23 21:29:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-09-23 21:41:00?",
+        "answer": "You spent $465.0 on Food (Dinner) on 2021-09-23 21:41:00."
+    },
+    {
+        "question": "How much did I spend on Food (Pepsi) on 2021-09-23 21:45:00?",
+        "answer": "You spent $40.0 on Food (Pepsi) on 2021-09-23 21:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-09-24 14:08:00?",
+        "answer": "You spent $133.0 on Food (Lunch with company) on 2021-09-24 14:08:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-09-24 20:17:00?",
+        "answer": "You received an income of $55000.0 from office on 2021-09-24 20:17:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Train to vnr) on 2021-09-25 09:20:00?",
+        "answer": "You spent $3325.0 on Transportation (Train to vnr) on 2021-09-25 09:20:00."
+    },
+    {
+        "question": "How much did I spend on Other (To vicky) on 2021-09-27 13:41:00?",
+        "answer": "You spent $300.0 on Other (To vicky) on 2021-09-27 13:41:00."
+    },
+    {
+        "question": "How much did I spend on Food (Friday snacks with preethi gang) on 2021-10-01 14:04:00?",
+        "answer": "You spent $106.0 on Food (Friday snacks with preethi gang) on 2021-10-01 14:04:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-10-01 21:11:00?",
+        "answer": "You received an income of $55140.0 from office on 2021-10-01 21:11:00."
+    },
+    {
+        "question": "How much income did I receive from From barath on 2021-10-01 21:54:00?",
+        "answer": "You received an income of $201.0 from From barath on 2021-10-01 21:54:00."
+    },
+    {
+        "question": "How much did I spend on Household (Bean bag) on 2021-10-02 09:18:00?",
+        "answer": "You spent $2099.0 on Household (Bean bag) on 2021-10-02 09:18:00."
+    },
+    {
+        "question": "How much did I spend on Food (Kfc dinner) on 2021-10-02 20:15:00?",
+        "answer": "You spent $641.0 on Food (Kfc dinner) on 2021-10-02 20:15:00."
+    },
+    {
+        "question": "How much did I spend on Food (Panipoori) on 2021-10-14 21:03:00?",
+        "answer": "You spent $80.0 on Food (Panipoori) on 2021-10-14 21:03:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-10-16 10:42:00?",
+        "answer": "You spent $110.0 on Food (Milk with bharath) on 2021-10-16 10:42:00."
+    },
+    {
+        "question": "How much did I spend on Other (To kumara) on 2021-10-18 21:01:00?",
+        "answer": "You spent $10000.0 on Other (To kumara) on 2021-10-18 21:01:00."
+    },
+    {
+        "question": "How much income did I receive from From ganesan on 2021-10-27 12:33:00?",
+        "answer": "You received an income of $40.0 from From ganesan on 2021-10-27 12:33:00."
+    },
+    {
+        "question": "How much income did I receive from From abi on 2021-10-30 11:45:00?",
+        "answer": "You received an income of $20.0 from From abi on 2021-10-30 11:45:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido + toll) on 2021-10-30 11:45:00?",
+        "answer": "You spent $286.0 on Transportation (Rapido + toll) on 2021-10-30 11:45:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Bommasandra to pg) on 2021-10-30 12:38:00?",
+        "answer": "You spent $199.0 on Transportation (Bommasandra to pg) on 2021-10-30 12:38:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with not preethi) on 2021-11-01 14:07:00?",
+        "answer": "You spent $135.5 on Food (Lunch with not preethi) on 2021-11-01 14:07:00."
+    },
+    {
+        "question": "How much did I spend on Household (Bean bag) on 2021-11-02 09:18:00?",
+        "answer": "You spent $4099.0 on Household (Bean bag) on 2021-11-02 09:18:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with aravind) on 2021-11-02 22:41:00?",
+        "answer": "You spent $373.0 on Food (Dinner with aravind) on 2021-11-02 22:41:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-11-13 19:10:00?",
+        "answer": "You received an income of $1000.0 from From dad on 2021-11-13 19:10:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch pongal) on 2021-11-14 16:54:00?",
+        "answer": "You spent $1530.0 on Food (Lunch pongal) on 2021-11-14 16:54:00."
+    },
+    {
+        "question": "How much income did I receive from From gowdham on 2021-11-14 16:54:00?",
+        "answer": "You received an income of $340.0 from From gowdham on 2021-11-14 16:54:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-11-14 16:55:00?",
+        "answer": "You received an income of $55240.0 from office on 2021-11-14 16:55:00."
+    },
+    {
+        "question": "How much income did I receive from Siva + 100 cash on 2021-11-14 16:56:00?",
+        "answer": "You received an income of $70.0 from Siva + 100 cash on 2021-11-14 16:56:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-11-18 12:59:00?",
+        "answer": "You received an income of $1000.0 from From dad on 2021-11-18 12:59:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido) on 2021-11-27 18:41:00?",
+        "answer": "You spent $35.0 on Transportation (Rapido) on 2021-11-27 18:41:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with gowdham) on 2021-11-27 22:34:00?",
+        "answer": "You spent $130.0 on Food (Dinner with gowdham) on 2021-11-27 22:34:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with gowdham) on 2021-11-27 23:14:00?",
+        "answer": "You spent $120.0 on Food (Dinner with gowdham) on 2021-11-27 23:14:00."
+    },
+    {
+        "question": "How much did I spend on Food (Zomato) on 2021-11-28 13:10:00?",
+        "answer": "You spent $269.4 on Food (Zomato) on 2021-11-28 13:10:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snack) on 2021-11-28 19:59:00?",
+        "answer": "You spent $94.0 on Food (Snack) on 2021-11-28 19:59:00."
+    },
+    {
+        "question": "How much did I spend on Food (Breakfast) on 2021-11-29 09:29:00?",
+        "answer": "You spent $40.0 on Food (Breakfast) on 2021-11-29 09:29:00."
+    },
+    {
+        "question": "How much did I spend on Food (Panipoori) on 2021-11-29 20:09:00?",
+        "answer": "You spent $40.0 on Food (Panipoori) on 2021-11-29 20:09:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-11-29 20:47:00?",
+        "answer": "You spent $40.0 on Food (Lunch with company) on 2021-11-29 20:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner) on 2021-11-29 20:47:00?",
+        "answer": "You spent $50.0 on Food (Dinner) on 2021-11-29 20:47:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Rapido to pg) on 2021-11-29 21:56:00?",
+        "answer": "You spent $44.0 on Transportation (Rapido to pg) on 2021-11-29 21:56:00."
+    },
+    {
+        "question": "How much did I spend on Food (Breakfast) on 2021-11-30 10:11:00?",
+        "answer": "You spent $70.0 on Food (Breakfast) on 2021-11-30 10:11:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-11-30 14:17:00?",
+        "answer": "You spent $128.0 on Food (Lunch with company) on 2021-11-30 14:17:00."
+    },
+    {
+        "question": "How much did I spend on apparel (Bharath birthday) on 2021-11-30 14:24:00?",
+        "answer": "You spent $115.0 on apparel (Bharath birthday) on 2021-11-30 14:24:00."
+    },
+    {
+        "question": "How much did I spend on Food (Pizza) on 2021-12-01 13:25:00?",
+        "answer": "You spent $301.75 on Food (Pizza) on 2021-12-01 13:25:00."
+    },
+    {
+        "question": "How much income did I receive from From kumara on 2021-12-01 13:25:00?",
+        "answer": "You received an income of $200.0 from From kumara on 2021-12-01 13:25:00."
+    },
+    {
+        "question": "How much did I spend on Other (Recharge by gowdham) on 2021-12-01 22:44:00?",
+        "answer": "You spent $479.0 on Other (Recharge by gowdham) on 2021-12-01 22:44:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-12-02 14:47:00?",
+        "answer": "You received an income of $10000.0 from From dad on 2021-12-02 14:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-12-02 14:48:00?",
+        "answer": "You spent $80.0 on Food (Lunch) on 2021-12-02 14:48:00."
+    },
+    {
+        "question": "How much did I spend on Household (Mirror) on 2021-12-02 16:04:00?",
+        "answer": "You spent $7770.0 on Household (Mirror) on 2021-12-02 16:04:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-12 21:47:00?",
+        "answer": "You spent $25.0 on Food (Milk with bharath) on 2021-12-12 21:47:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-14 10:33:00?",
+        "answer": "You spent $65.0 on Food (Milk with bharath) on 2021-12-14 10:33:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-12-14 21:21:00?",
+        "answer": "You spent $75.0 on Food (Snacks) on 2021-12-14 21:21:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-12-14 23:54:00?",
+        "answer": "You spent $400.0 on Food (Lunch) on 2021-12-14 23:54:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-12-16 13:38:00?",
+        "answer": "You spent $30.0 on Food (Lunch) on 2021-12-16 13:38:00."
+    },
+    {
+        "question": "How much did I spend on Food (Panipoori) on 2021-12-16 18:35:00?",
+        "answer": "You spent $20.0 on Food (Panipoori) on 2021-12-16 18:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Egg) on 2021-12-16 18:44:00?",
+        "answer": "You spent $300.0 on Food (Egg) on 2021-12-16 18:44:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-12-17 14:45:00?",
+        "answer": "You spent $110.0 on Food (Lunch with company) on 2021-12-17 14:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-17 18:54:00?",
+        "answer": "You spent $700.0 on Food (Milk with bharath) on 2021-12-17 18:54:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch) on 2021-12-18 14:19:00?",
+        "answer": "You spent $160.0 on Food (Lunch) on 2021-12-18 14:19:00."
+    },
+    {
+        "question": "How much income did I receive from Lended money on 2021-12-18 19:52:00?",
+        "answer": "You received an income of $400.0 from Lended money on 2021-12-18 19:52:00."
+    },
+    {
+        "question": "How much did I spend on Food (To rahul) on 2021-12-18 21:00:00?",
+        "answer": "You spent $113.0 on Food (To rahul) on 2021-12-18 21:00:00."
+    },
+    {
+        "question": "How much income did I receive from From dad on 2021-12-18 21:00:00?",
+        "answer": "You received an income of $5000.0 from From dad on 2021-12-18 21:00:00."
+    },
+    {
+        "question": "How much did I spend on Other (To abijith) on 2021-12-18 21:01:00?",
+        "answer": "You spent $200.0 on Other (To abijith) on 2021-12-18 21:01:00."
+    },
+    {
+        "question": "How much did I spend on Other (To siva) on 2021-12-19 15:51:00?",
+        "answer": "You spent $10000.0 on Other (To siva) on 2021-12-19 15:51:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-20 09:46:00?",
+        "answer": "You spent $40.0 on Food (Milk with bharath) on 2021-12-20 09:46:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with barath) on 2021-12-20 13:35:00?",
+        "answer": "You spent $85.0 on Food (Lunch with barath) on 2021-12-20 13:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Water) on 2021-12-20 15:29:00?",
+        "answer": "You spent $20.0 on Food (Water) on 2021-12-20 15:29:00."
+    },
+    {
+        "question": "How much did I spend on Food (Snacks) on 2021-12-20 16:55:00?",
+        "answer": "You spent $20.0 on Food (Snacks) on 2021-12-20 16:55:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Taxi) on 2021-12-20 19:22:00?",
+        "answer": "You spent $800.0 on Transportation (Taxi) on 2021-12-20 19:22:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-20 19:23:00?",
+        "answer": "You spent $80.0 on Food (Milk with bharath) on 2021-12-20 19:23:00."
+    },
+    {
+        "question": "How much did I spend on Food (Bun) on 2021-12-21 11:43:00?",
+        "answer": "You spent $18.0 on Food (Bun) on 2021-12-21 11:43:00."
+    },
+    {
+        "question": "How much did I spend on Food (Puffs) on 2021-12-21 14:02:00?",
+        "answer": "You spent $25.0 on Food (Puffs) on 2021-12-21 14:02:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with barath) on 2021-12-21 20:53:00?",
+        "answer": "You spent $239.0 on Food (Dinner with barath) on 2021-12-21 20:53:00."
+    },
+    {
+        "question": "How much did I spend on Food (Puffs and coffee) on 2021-12-23 13:51:00?",
+        "answer": "You spent $32.0 on Food (Puffs and coffee) on 2021-12-23 13:51:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lemon tea with company) on 2021-12-23 16:31:00?",
+        "answer": "You spent $15.0 on Food (Lemon tea with company) on 2021-12-23 16:31:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with company) on 2021-12-24 14:35:00?",
+        "answer": "You spent $262.0 on Food (Lunch with company) on 2021-12-24 14:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Milk with bharath) on 2021-12-25 13:32:00?",
+        "answer": "You spent $40.0 on Food (Milk with bharath) on 2021-12-25 13:32:00."
+    },
+    {
+        "question": "How much did I spend on Food (Water) on 2021-12-25 15:35:00?",
+        "answer": "You spent $30.0 on Food (Water) on 2021-12-25 15:35:00."
+    },
+    {
+        "question": "How much did I spend on Food (Corn) on 2021-12-25 17:01:00?",
+        "answer": "You spent $300.0 on Food (Corn) on 2021-12-25 17:01:00."
+    },
+    {
+        "question": "How much did I spend on Apparel (Books) on 2021-12-25 19:50:00?",
+        "answer": "You spent $400.0 on Apparel (Books) on 2021-12-25 19:50:00."
+    },
+    {
+        "question": "How much did I spend on Food (Dinner with barath) on 2021-12-25 22:53:00?",
+        "answer": "You spent $504.0 on Food (Dinner with barath) on 2021-12-25 22:53:00."
+    },
+    {
+        "question": "How much did I spend on Food (Coconut water with stu) on 2021-12-27 12:33:00?",
+        "answer": "You spent $50.0 on Food (Coconut water with stu) on 2021-12-27 12:33:00."
+    },
+    {
+        "question": "How much income did I receive from From vicky on 2021-12-27 13:44:00?",
+        "answer": "You received an income of $80.0 from From vicky on 2021-12-27 13:44:00."
+    },
+    {
+        "question": "How much did I spend on Food (Lunch with barath) on 2021-12-27 13:45:00?",
+        "answer": "You spent $115.0 on Food (Lunch with barath) on 2021-12-27 13:45:00."
+    },
+    {
+        "question": "How much did I spend on Food (Coffee and thattai) on 2021-12-28 13:42:00?",
+        "answer": "You spent $14.0 on Food (Coffee and thattai) on 2021-12-28 13:42:00."
+    },
+    {
+        "question": "How much did I spend on Food (Water) on 2021-12-30 11:45:00?",
+        "answer": "You spent $20.0 on Food (Water) on 2021-12-30 11:45:00."
+    },
+    {
+        "question": "How much income did I receive from From Deepak on 2021-12-30 12:37:00?",
+        "answer": "You received an income of $250.0 from From Deepak on 2021-12-30 12:37:00."
+    },
+    {
+        "question": "How much did I spend on Food (Horlicks + kolakattai) on 2021-12-30 12:43:00?",
+        "answer": "You spent $25.0 on Food (Horlicks + kolakattai) on 2021-12-30 12:43:00."
+    },
+    {
+        "question": "How much income did I receive from office on 2021-12-30 13:36:00?",
+        "answer": "You received an income of $55530.0 from office on 2021-12-30 13:36:00."
+    },
+    {
+        "question": "How much did I spend on Transportation (Pg to office) on 2021-12-30 13:56:00?",
+        "answer": "You spent $43.0 on Transportation (Pg to office) on 2021-12-30 13:56:00."
+    },
+    {
+        "question": "How much did I spend on Food (To barath) on 2021-12-30 14:10:00?",
+        "answer": "You spent $20.0 on Food (To barath) on 2021-12-30 14:10:00."
+    }
+]
